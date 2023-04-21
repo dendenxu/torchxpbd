@@ -1,0 +1,8 @@
+tqdm
+numpy
+open3d
+pytorch
+pymcubes
+pytorch3d
+largesteps
+torch-scatter

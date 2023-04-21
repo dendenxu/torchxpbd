@@ -1,0 +1,4 @@
+*.obj
+*.npz
+!tshirt.obj
+__pycache__
